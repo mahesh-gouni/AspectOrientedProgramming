@@ -10,7 +10,7 @@ public class RoleValidationTest {
         Role role = context.getBean("role", Role.class);
 
         role.setName("admin1");
-
+//mahi
             manager.validate(role);
         }
     }
