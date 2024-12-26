@@ -13,6 +13,10 @@ public class RoleValidationTest {
         role.setName("admin1");
 //mahi
             manager.validate(role);
+
+            //mahi
+
+        //stach
         }
     }
 
